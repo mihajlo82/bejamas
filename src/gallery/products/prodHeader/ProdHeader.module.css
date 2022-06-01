@@ -1,0 +1,94 @@
+.ProdHeaderWrapp{
+    width:100%;
+    display: flex;
+    margin-top: 20px;
+    
+}
+
+.ProdHeaderLeft{
+    width:50%;
+}
+
+.ProdHeaderRight{
+    width:50%;
+    display: flex;
+    align-items:center;
+    justify-content: flex-end;
+
+}
+
+.SortWrapp{
+    display: flex;
+    align-items: center;
+}
+
+.AlphabLogo{
+    margin-right: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.sortText{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.lines{
+    font-size: 30px;
+}
+
+.sortByText{
+    margin-right: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.priceText{
+    margin-right: 5px;
+}
+.sortByPriceArrow{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+}
+
+.priceArrow{
+    font-size: 32px;
+}
+
+.ProdHeaderRightSmall{
+    display: none;
+}
+/*//////////////////////////////////
+       RESPONSIVE DESIGN 
+////////////////////////////////////*/
+
+@media only screen and (max-width: 828px) {
+    .ProdHeaderRight{
+        display: none;
+    }
+    .ProdHeaderLeft{
+        width:85%;
+    }
+    .ProdHeaderRightSmall{
+        width:15%;
+        display: flex;
+        justify-content: flex-end;
+    }
+
+    .ProdHeaderRightSmallIcon{
+        font-size: 35px;
+    }
+
+  }
+
+  @media only screen and (max-width: 524px) {
+
+    .ProdHeaderLeft > h2{
+        font-size: 22px;
+
+    }
+  }

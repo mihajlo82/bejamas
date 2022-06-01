@@ -1,0 +1,384 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Jason Velo",
+      "category": "europe",
+      "price": "45.99",
+      "currency": "USD",
+      "image": {
+        "src": "https://images.pexels.com/photos/102127/pexels-photo-102127.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "alt": "Image1"
+      },
+      "bestseller": true,
+      "featured": false,
+      "details": "European picture description image 1",
+      "size":{
+        "width":1024,
+        "height": 768
+      },
+      "digsize": 344
+    },
+    {
+      "id": 2,
+      "name": "The Main Street",
+      "category": "europe",
+      "price": "65.49",
+      "currency": "USD",
+      "image": {
+        "src": "https://images.pexels.com/photos/542556/pexels-photo-542556.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "alt": "Image2"
+      },
+      "bestseller": false,
+      "featured": true,
+      "details": "European iamge description image 2, Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. ",
+       "size":{
+         "width":1024,
+         "height": 768
+       },
+       "digsize": 344
+    },
+    {
+      "id": 3,
+      "name": "Wet Bach",
+      "category": "asia",
+      "price": "85.33",
+      "currency": "USD",
+      "image": {
+        "src": "https://images.pexels.com/photos/1269968/pexels-photo-1269968.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "alt": "Asian3"
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": "Asian image description image 1",
+      "size":{
+        "width":1024,
+        "height": 768
+      },
+      "digsize": 344
+    },
+    {
+      "id": 4,
+      "name": "Stoneter",
+      "category": "africa",
+      "price": "285.73",
+      "currency": "USD",
+      "image": {
+        "src": "https://images.pexels.com/photos/889839/pexels-photo-889839.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "alt": "Africa1"
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": "African description image 1. Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. ",
+      "size":{
+        "width":1024,
+        "height": 768
+      },
+      "digsize": 344
+    },
+    {
+      "id": 5,
+      "name": "Gabrigonzago",
+      "category": "america",
+      "price": "185.73",
+      "currency": "USD",
+      "image": {
+        "src": "https://images.pexels.com/photos/1568607/pexels-photo-1568607.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "alt": "America1"
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": "American description image 1. Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance.",
+      "size":{
+        "width":1024,
+        "height": 768
+      },
+      "digsize": 344   
+    },
+    {
+        "id": 6,
+        "name": "Meltres",
+        "category": "america",
+        "price": "78.23",
+        "currency": "USD",
+        "image": {
+          "src": "https://images.pexels.com/photos/1109354/pexels-photo-1109354.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "alt": "America2"
+        },
+        "bestseller": false,
+        "featured": false,
+        "details": "American description image 2. Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance.",
+        "size":{
+          "width":1024,
+          "height": 768
+        },
+        "digsize": 344
+      },
+      {
+        "id": 7,
+        "name": "Zumikolo",
+        "category": "europe",
+        "price": "128.23",
+        "currency": "USD",
+        "image": {
+          "src": "https://images.pexels.com/photos/20967/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "alt": "Europe43"
+        },
+        "bestseller": false,
+        "featured": false,
+        "details": "Europe description image 43, Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance.",
+        "size":{
+          "width":1024,
+          "height": 768
+        },
+        "digsize": 344
+      },
+      {
+        "id": 8,
+        "name": "Aswan",
+        "category": "europe",
+        "price": "17.23",
+        "currency": "USD",
+        "image": {
+          "src": "https://images.pexels.com/photos/1616403/pexels-photo-1616403.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "alt": "Europe654"
+        },
+        "bestseller": false,
+        "featured": false,
+        "details": "Europe description image 654. Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance.",
+        "size":{
+          "width":1024,
+          "height": 768
+        },
+        "digsize": 344
+      },
+      {
+        "id": 9,
+        "name": "Qyriola",
+        "category": "africa",
+        "price": "10.99",
+        "currency": "USD",
+        "image": {
+          "src": "https://images.pexels.com/photos/1194420/pexels-photo-1194420.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "alt": "Africa9908"
+        },
+        "bestseller": false,
+        "featured": false,
+        "details": "African description image 9908. Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance.",
+        "size":{
+          "width":1074,
+          "height": 568
+        },
+        "digsize": 254
+      },
+      {
+        "id": 10,
+        "name": "Zejidah",
+        "category": "asia",
+        "price": "15.49",
+        "currency": "USD",
+        "image": {
+          "src": "https://images.pexels.com/photos/1292241/pexels-photo-1292241.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "alt": "Asia7765"
+        },
+        "bestseller": false,
+        "featured": false,
+        "details": "Asian description image 7765. Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance.",
+        "size":{
+          "width":924,
+          "height": 768
+        },
+        "digsize": 765
+      },
+      {
+        "id": 11,
+        "name": "Detelsona",
+        "category": "asia",
+        "price": "305.49",
+        "currency": "USD",
+        "image": {
+          "src": "https://images.pexels.com/photos/3109807/pexels-photo-3109807.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "alt": "Asia775465"
+        },
+        "bestseller": false,
+        "featured": false,
+        "details": "Asian description image 775465. Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance.",
+        "size":{
+          "width":1024,
+          "height": 768
+        },
+        "digsize": 344
+      },
+      {
+        "id": 12,
+        "name": "Austrax",
+        "category": "australia",
+        "price": "505.19",
+        "currency": "USD",
+        "image": {
+          "src": "https://images.pexels.com/photos/1509534/pexels-photo-1509534.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "alt": "Australia1"
+        },
+        "bestseller": false,
+        "featured": false,
+        "details": "Australia description image 1. Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance.",
+        "size":{
+          "width":1024,
+          "height": 768
+        },
+        "digsize": 344
+      },
+      {
+        "id": 13,
+        "name": "Europenko",
+        "category": "europe",
+        "price": "125.19",
+        "currency": "USD",
+        "image": {
+          "src": "https://images.pexels.com/photos/1266808/pexels-photo-1266808.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "alt": "Europe1234"
+        },
+        "bestseller": false,
+        "featured": false,
+        "details": "Europe text description image 1234",
+        "size":{
+          "width":1024,
+          "height": 768
+        },
+        "digsize": 344
+      },
+      {
+        "id": 14,
+        "name": "Nfethya",
+        "category": "africa",
+        "price": "95.19",
+        "currency": "USD",
+        "image": {
+          "src": "https://images.pexels.com/photos/1629236/pexels-photo-1629236.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "alt": "Africa1234"
+        },
+        "bestseller": false,
+        "featured": false,
+        "details": "Africa text description image 1234",
+        "size":{
+          "width":1624,
+          "height": 988
+        },
+        "digsize": 799
+      },
+      {
+        "id": 15,
+        "name": "Kangs Vex",
+        "category": "australia",
+        "price": "11.25",
+        "currency": "USD",
+        "image": {
+          "src": "https://images.pexels.com/photos/1212407/pexels-photo-1212407.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "alt": "AustraliaX"
+        },
+        "bestseller": false,
+        "featured": false,
+        "details": "Australia text description image x",
+        "size":{
+          "width":1024,
+          "height": 768
+        },
+        "digsize": 344
+      }, 
+      {
+        "id": 16,
+        "name": "Vesuvio",
+        "category": "australia",
+        "price": "121.25",
+        "currency": "USD",
+        "image": {
+          "src": "https://images.pexels.com/photos/3109816/pexels-photo-3109816.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "alt": "Australiacc"
+        },
+        "bestseller": false,
+        "featured": false,
+        "details": "Australia text description image cc",
+        "size":{
+          "width":1024,
+          "height": 768
+        },
+        "digsize": 344
+      },
+      {
+        "id": 17,
+        "name": "Mediteraneo",
+        "category": "europe",
+        "price": "633.77",
+        "currency": "USD",
+        "image": {
+          "src": "https://images.pexels.com/photos/1279813/pexels-photo-1279813.jpeg?auto=compress&cs=tinysrgb&w=1600",
+          "alt": "Europecc"
+        },
+        "bestseller": false,
+        "featured": false,
+        "details": "Europe text description image cc",
+        "size":{
+          "width":1024,
+          "height": 768
+        },
+        "digsize": 344
+      },
+      {
+        "id": 18,
+        "name": "Afriaknex",
+        "category": "africa",
+        "price": "44.00",
+        "currency": "USD",
+        "image": {
+          "src": "https://images.pexels.com/photos/7577875/pexels-photo-7577875.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "alt": "Africacc"
+        },
+        "bestseller": false,
+        "featured": false,
+        "details": "Africa text description image cc",
+        "size":{
+          "width":1024,
+          "height": 768
+        },
+        "digsize": 344
+      },
+      {
+        "id": 19,
+        "name": "Grand Rios",
+        "category": "america",
+        "price": "177.50",
+        "currency": "USD",
+        "image": {
+          "src": "https://images.pexels.com/photos/2113566/pexels-photo-2113566.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "alt": "Americaccc"
+        },
+        "bestseller": false,
+        "featured": false,
+        "details": "America text description image ccc",
+        "size":{
+          "width":1024,
+          "height": 768
+        },
+        "digsize": 344
+      },
+      {
+        "id": 20,
+        "name": "Hemalagu",
+        "category": "asia",
+        "price": "994.95",
+        "currency": "USD",
+        "image": {
+          "src": "https://images.pexels.com/photos/1227511/pexels-photo-1227511.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "alt": "Asiax"
+        },
+        "bestseller": false,
+        "featured": false,
+        "details": "Asian text description image vvvbb. Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance.",
+        "size":{
+          "width":1312,
+          "height": 634
+        },
+        "digsize": 287
+      }
+  ]
+}

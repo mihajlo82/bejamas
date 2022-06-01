@@ -1,0 +1,16 @@
+.productsWrapp{
+    margin-top: 25px;
+    width: 75%;
+}
+
+
+/*////////////////////////////////
+        RESPONSIVE DESIGN
+///////////////////////////////*/
+
+@media only screen and (max-width: 1346px) {
+    .productsWrapp{
+        width: 95%;
+    }
+
+    }

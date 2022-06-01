@@ -1,0 +1,73 @@
+.headerWrapp{
+    padding: 25px 0;
+    width:75%;
+    display: flex;
+    border-bottom: 2px solid grey;
+}
+
+.leftSide{
+    width:60%;
+    display:flex ;
+    align-items: center;
+}
+
+.rightSide{
+    width:40%;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+
+}
+
+.cartWrapp{
+    position:relative;
+    display: flex;
+}
+
+.cart{
+    font-size:50px;
+     color:black;
+}
+.cartNum{
+    position:absolute;
+    color:white;
+    right: -15px;
+    bottom: 0;
+    background-color: black;
+    border-radius: 50%;
+    width: 20px;
+    height:20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* //////////////////////////////////////////////////////////////////////////
+                RESPONSIVE DESIGN
+//////////////////////////////////////////////////////////////////////////*/
+
+  @media only screen and (max-width: 1346px) {
+   
+      .headerWrapp{
+          width:95%;
+      }
+      .leftSide{
+          padding-left: 20px;
+      }
+      .rightSide{
+          padding-right: 20px;
+      }
+  }
+  
+
+  @media only screen and (max-width: 524px) {
+
+    .leftSide > h1{
+        font-size: 24px;
+        letter-spacing: 2px;
+
+    }
+    .cart{
+        font-size: 40px;
+    }
+  }

@@ -1,0 +1,202 @@
+.featureWrapp{
+    width:75%;
+    padding-top: 25px;
+    position: relative;
+}
+
+.featureHeader{
+    width:100%;
+    display: flex;
+    align-items: center;
+}
+
+.featureHeaderLeft{
+    padding-left: 5px;
+    width:50%;
+}
+
+.featureHeaderRight{
+    width:50%;
+    display: flex;
+    justify-content: flex-end;
+}
+.addBtnBelowWrapp{
+    display: none;
+}
+.buttonAdd{
+    padding: 8px 25px;
+    letter-spacing: 2px;
+    background-color: black;
+    color:white
+}
+
+.imageFeature{
+    margin-top: 25px;
+    width:100%;
+    position: relative;
+}
+
+.imgFeat{
+    width:100%;
+    height: 450px;
+    background-size: contain;
+}
+
+.markImgFeature{
+    background-color: white;
+    padding: 10px 20px;
+    color:black;
+    font-weight: bold;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.1rem;
+}
+
+.descriptionWrapp{
+    width:100%;
+    display: flex;
+    margin-top: 25px;
+}
+
+.addBtnBelowWrapp{
+    width:100%;
+}
+
+.addBtnBelow{
+    width:100%;
+    background-color: black;
+    color:white;
+    height: 100%;
+    padding: 15px 0;
+}
+
+.leftDesc{
+    width:75%;
+    display: flex;
+    flex-direction: column;    
+}
+
+.textDescWrapper{
+    width:100%;
+    padding-top: 20px;
+    font-family: 'Open Sans', sans-serif;
+    display: flex;
+    flex-direction: column;
+}
+
+.subTitleFeat{
+    width:100%;
+}
+
+.descText{
+    width: 85%;
+    color:gray;
+}
+.rightDesc{
+    width:25%;
+}
+
+.subTitleFeatRight{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.buyedItemsWrapp{
+    width: 100%;
+    padding-top: 25px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.imgFeatBuy{
+    width:25%;
+    height: 112px;
+    background-color: green;
+}
+
+.detailsWrapp{
+    padding-top: 15px;
+    width:100%;
+}
+
+.detailsTitleWrapp{
+    width:100%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+
+.sizeDet{
+    padding-top: 10px;
+}
+
+.featuredImgBottomLine{
+    margin-top: 40px;
+}
+
+
+/*//////////////////////////////////
+       RESPONSIVE DESIGN 
+////////////////////////////////////*/
+
+@media only screen and (max-width: 1346px) {
+    .featureWrapp{
+        width:95%;
+    }
+}
+
+@media only screen and (max-width: 826px) {
+    .featureHeaderLeft{
+        width:100%;
+    }
+    .addBtnBelowWrapp{
+        display: flex;
+    }
+    .buttonAdd{
+        display: none;
+    }
+    .descriptionWrapp{
+        flex-direction: column;
+    }
+
+    .leftDesc{
+        width:95%;
+    }
+    .subTitleFeat{
+        display: flex;
+    }
+    .rightDesc{
+        margin-top: 30px;
+        width:95%;
+    }
+
+    .subTitleFeatRight{
+        justify-content: flex-start;
+    }
+
+    .descText{
+        width: 99%;
+    }
+
+    .imgFeatBuy{
+        width:27%;
+    }
+
+    .detailsTitleWrapp{
+        align-items: flex-start;
+        margin-top: 20px;
+    }
+    
+  }
+
+  @media only screen and (max-width: 576px) {
+
+  .imgFeat{
+    height: 350px;
+}
+  }
